@@ -37,10 +37,10 @@ Para solucionar os problemas acima, o projeto responde a quatro perguntas fundam
 ## Visualização dos Resultados
 
 ## Top 10 produtos mais vendidos
-![Top 10 produtos mais vendidos](output/tp10_produtos.png)
+![Top 10 produtos mais vendidos](output/top10_produtos.png)
 
 ## Evolução do faturamento mensal
-![Evolução do faturamento mensal](output/faturamento_mensal.png')
+![Evolução do faturamento mensal](output/faturamento_mensal.png)
 
 ## Faturamento por estado
 ![Faturamento por estado](output/faturamento_estado.png)
