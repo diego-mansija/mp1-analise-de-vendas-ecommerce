@@ -1,4 +1,4 @@
-# Conteúdo do README baseado nas informações fornecidas e no tom profissional solicitado
+# Projeto de Análise de Vendas para Loja de E-commerce
 
 Este projeto didático consiste no desenvolvimento de um ecossistema de Business Intelligence voltado para a otimização de operações de e-commerce. A aplicação processa volumes crescentes de transações brutas para extrair insights estratégicos, transformando dados desestruturados em indicadores de performance (KPIs) que fundamentam decisões sobre gestão de inventário, segmentação de marketing e expansão regional.
 
